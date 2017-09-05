@@ -7,7 +7,7 @@ git clone ...
 ```
 ## Add upstream
 ```
-git remote add upstream 
+git remote add upstream https://github.com/sbunivedu/cookie-recipe.git
 ```
 ![part 1](cookie_recipe_pt1.png)
 ![part 2](cookie_recipe_pt2.png)
