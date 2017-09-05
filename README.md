@@ -9,5 +9,9 @@ git clone ...
 ```
 git remote add upstream https://github.com/sbunivedu/cookie-recipe.git
 ```
+## Pull from upstream
+```
+git pull upstream master
+```
 ![part 1](cookie_recipe_pt1.png)
 ![part 2](cookie_recipe_pt2.png)
