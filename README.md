@@ -1,15 +1,15 @@
 # Cookie Recipe Page
 Use the content in index.html to create a web page that looks as follows.
-## Create a fork of this repository
-## Clone your fork into a local repository
+1. Create a fork of this repository
+2. Clone your fork into a local repository
 ```
 git clone ...
 ```
-## Add upstream
+3. Add upstream
 ```
 git remote add upstream https://github.com/sbunivedu/cookie-recipe.git
 ```
-## Pull from upstream
+4. Pull from upstream
 ```
 git pull upstream master
 ```
